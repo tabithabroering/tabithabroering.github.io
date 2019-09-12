@@ -1,0 +1,46 @@
+
+#page-container {
+	width: 777px;
+	color: yellow;
+}
+
+#column1 {
+	width:519px;
+	float: left; 
+	border-style: solid;
+	border-width: 2px;
+	border-color: blue;
+}
+	
+#column2 {
+	width: 250px;
+	float: right;
+	border-style: solid;
+	border-width: 2px;
+	border-color: blue;
+}
+
+.story-main {
+	margin-left: 20px;
+}
+
+.story-main h1 {
+	font-size: 24pt;
+	color: #000000;
+	margin-bottom: 20px;
+}
+
+.story-main p {
+	font-size: 12pt;
+	letter-spacing: 120%;
+	padding-right: 20px;
+	color: #5a5a5a
+}
+
+.main-story-img {
+	float: right;
+	margin-right: 20px;
+	margin-left: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
