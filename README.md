@@ -1,5 +1,4 @@
 # tabithabroering.github.io
-CGT 141 Lab 4
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 	"tabithabroering.github.io">
 <html>
